@@ -16,7 +16,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/IrinaVaronka/5-projektas-kosmos
 
-Design: [KOSMOS](./Kosmos.png)
+Design: [KOSMOS](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
 
 ## 🎯 Project features/goals
 
