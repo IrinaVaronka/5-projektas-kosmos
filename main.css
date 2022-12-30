@@ -1,15 +1,40 @@
-header {
-    width: 800px;
-    margin-left: calc(50% - 400px);
-    background-color:yellow; 
+body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-main {
-    width: 800px;
-    margin-left: calc(50% - 400px);
-    background-color:green;
-}
+
+header, 
+main, 
 footer {
     width: 800px;
     margin-left: calc(50% - 400px);
-    background-color: red; 
-} 
+    margin-bottom: 30px;
+    background-color:yellow; 
+    display: inline-block;
+}
+header {
+    margin-top: 50px;
+}
+
+h2 {
+    font-weight: 600;
+    float: left; 
+}
+nav {
+    float: right;
+    margin-top: 23.92px;
+}
+a {
+    margin-left: 2em;
+    font-size: 20px;
+    line-height: 20px;
+    color: black;
+    text-decoration: none;
+    display: inline-block;  
+}
+a:first-child {
+    margin-left: 0;
+}
+a:hover {
+    text-decoration: underline;
+}
