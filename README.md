@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/IrinaVaronka/5-projektas-kosmos
+Site published at: https://irinavaronka.github.io/5-projektas-kosmos/
 
 Design: [KOSMOS](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
 
