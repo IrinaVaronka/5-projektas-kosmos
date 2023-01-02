@@ -38,7 +38,7 @@ nav > a:first-child {
 nav > a:hover {
     text-decoration: underline;
 }
-div {
+.left-column {
     width: 40%;
     float: left;    
 }
@@ -61,7 +61,7 @@ h1 > span {
     margin-bottom: 25px;
 }
 
-main > img {
+.right-column {
     width: 55%;
     float: right;
 }
@@ -82,11 +82,11 @@ div > a {
     float: left;
     color: white;
     padding: 0.9em;
-    padding-left: 2em;
-    padding-right: 2em;
-    margin-right: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+    margin-right: 2em;
     margin-bottom: 1em;
-    padding-right: 2em;
+    margin-top: 3em;
     font-size: 16px;
     line-height: 1.3em;
     border-radius: 1.55em;
@@ -98,7 +98,17 @@ div > a:hover {
     background-color: white;
     color: blueviolet;
     transition: all 0.5s;
+   
 }
-footer {
-    
+.socials > .icon {
+ text-decoration: none; 
+ float: left; 
+ margin-right: 0.5em;
+ font-size: 17px; 
+ margin-left: 0.4em;
+ background-color: white;
+ color: #d9d0d5;
+ padding: 8px;
+ border-radius: 20%;
+ margin-bottom: 1em;
 }
